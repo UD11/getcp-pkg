@@ -1,5 +1,9 @@
 # getcp
 
+### Full doc link
+
+- [getcp-docs](https://ud11.github.io/getcp-docs/#currently-supported-platforms)
+
 `getcp` is a Python package 
 that provides functions to 
 retrieve stats from CP
