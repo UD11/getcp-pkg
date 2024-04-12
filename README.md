@@ -1,10 +1,5 @@
 # getcp
 
-### link
-
-- [getcp-docs](https://ud11.github.io/getcp-docs/#currently-supported-platforms)
-- [package link](https://pypi.org/project/getcp/)
-
 ## Description
 
 `getcp` is a Python package 
@@ -12,6 +7,11 @@ that provides functions to
 retrieve stats from CP
 platforms. Currently, it supports user stats
 from CodeChef and Codeforces.
+
+### links
+
+- [getcp-docs](https://ud11.github.io/getcp-docs/#currently-supported-platforms)
+- [package link](https://pypi.org/project/getcp/)
 
 ## Installation
 
