@@ -1,8 +1,11 @@
 # getcp
 
-### Full doc link
+### link
 
 - [getcp-docs](https://ud11.github.io/getcp-docs/#currently-supported-platforms)
+- [package link](https://pypi.org/project/getcp/)
+
+## Description
 
 `getcp` is a Python package 
 that provides functions to 
