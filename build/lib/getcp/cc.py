@@ -35,7 +35,6 @@ def get_codechef_stats(username):
             'stars': stars,
             # 'practice_problems_solved': problems_solved,
             'contests_participated': contests_participated,
-
         }
 
     except requests.exceptions.RequestException as e:

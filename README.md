@@ -23,17 +23,20 @@ pip install getcp
 
 ## Usage
 
-```bash
-    from getcp import cc, cf
+```py
+    from getcp import cc, cf, github
     
     codechef_stats = cc.get_codechef_stats('username')
     codeforces_stats = cf.get_codeforces_stats('username')
+    github_info = github.get_github_stats('username')
     
     print("CodeChef Stats:")
     print(codechef_stats)
     
-    print("\nCodeforces )Stats:")
-    print(codeforces_stats
-
+    print("\nCodeforces Stats:")
+    print(codeforces_stats)
+    
+    print("\nGithub Info:")
+    print(github_info)
 
 ```

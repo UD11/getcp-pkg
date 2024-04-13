@@ -4,6 +4,7 @@ setup.py
 getcp/__init__.py
 getcp/cc.py
 getcp/cf.py
+getcp/github.py
 getcp.egg-info/PKG-INFO
 getcp.egg-info/SOURCES.txt
 getcp.egg-info/dependency_links.txt
